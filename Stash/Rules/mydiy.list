@@ -1,4 +1,4 @@
-# 规则名称: PT
+# 规则名称: mydiy
 # 规则统计: 9
 
 DOMAIN-SUFFIX,kp.m-team.cc
@@ -10,3 +10,5 @@ DOMAIN-SUFFIX,pandapt.net
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,pt.soulvoice.club
 DOMAIN-SUFFIX,pt.novahd.top
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,microsoft.com
