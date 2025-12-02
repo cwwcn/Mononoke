@@ -1,6 +1,7 @@
 # 规则名称: mydiy
 # 规则统计: 9
 
+# PT站
 DOMAIN-SUFFIX,kp.m-team.cc
 DOMAIN-SUFFIX,ptchdbits.co
 DOMAIN-SUFFIX,audiences.me
@@ -10,5 +11,13 @@ DOMAIN-SUFFIX,pandapt.net
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,pt.soulvoice.club
 DOMAIN-SUFFIX,pt.novahd.top
+# 微软签到的
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,login.live.com
+DOMAIN-SUFFIX,rewards.bing.com
+DOMAIN-SUFFIX,prod.rewardsplatform.microsoft.com
+DOMAIN-SUFFIX,hotapi.nntool.cc
+DOMAIN-SUFFIX,hot.baiwumm.com
+DOMAIN-SUFFIX,cnxiaobai.com
+DOMAIN-SUFFIX,disp-qryapi.3g.qq.com
