@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,pt.soulvoice.club
 DOMAIN-SUFFIX,pt.novahd.top
 # 微软签到的
-DOMAIN-SUFFIX,bing.com
+DOMAIN,www.bing.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,login.live.com
 DOMAIN-SUFFIX,rewards.bing.com
