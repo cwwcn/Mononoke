@@ -15,10 +15,9 @@ DOMAIN-SUFFIX,pt.novahd.top
 DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,piggo.me
 # 微软签到的
-DOMAIN,www.bing.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,login.live.com
-DOMAIN-SUFFIX,rewards.bing.com
+DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,prod.rewardsplatform.microsoft.com
 DOMAIN-SUFFIX,hotapi.nntool.cc
 DOMAIN-SUFFIX,hot.baiwumm.com
