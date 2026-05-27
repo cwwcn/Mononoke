@@ -17,13 +17,12 @@ DOMAIN-SUFFIX,piggo.me
 DOMAIN-SUFFIX,totheglory.im
 # 微软签到的
 DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,login.live.com
+DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,prod.rewardsplatform.microsoft.com
 DOMAIN-SUFFIX,hotapi.nntool.cc
 DOMAIN-SUFFIX,hot.baiwumm.com
 DOMAIN-SUFFIX,cnxiaobai.com
 DOMAIN-SUFFIX,disp-qryapi.3g.qq.com
-DOMAIN-SUFFIX,live.com
 # garmin总是因为这个失败
 DOMAIN-SUFFIX,amazonaws.com
