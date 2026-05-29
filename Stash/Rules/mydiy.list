@@ -26,3 +26,5 @@ DOMAIN-SUFFIX,cnxiaobai.com
 DOMAIN-SUFFIX,disp-qryapi.3g.qq.com
 # garmin总是因为这个失败
 DOMAIN-SUFFIX,amazonaws.com
+# 公益站
+DOMAIN-SUFFIX,sharedchat.cc
