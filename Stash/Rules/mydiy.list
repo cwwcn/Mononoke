@@ -30,4 +30,4 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,new.sharedchat.cc
 # linuxdo
 DOMAIN-SUFFIX,invite.linuxdo.org
-DOMAIN-SUFFIX,linux.do
+# DOMAIN-SUFFIX,linux.do
