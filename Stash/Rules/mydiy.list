@@ -30,4 +30,8 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,new.sharedchat.cc
 # linuxdo
 DOMAIN-SUFFIX,invite.linuxdo.org
-# DOMAIN-SUFFIX,linux.do
+# AI
+DOMAIN-SUFFIX,ai-cove.com
+DOMAIN-SUFFIX,youmisub.cloud
+DOMAIN-SUFFIX,sub2api.qmytai.com
+
