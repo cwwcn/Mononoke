@@ -1,6 +1,9 @@
 # 规则名称: mydiy
 # 规则统计: 9
 
+#个人
+DOMAIN-SUFFIX,chenzhuo.space
+
 # PT站
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,ptchdbits.co
